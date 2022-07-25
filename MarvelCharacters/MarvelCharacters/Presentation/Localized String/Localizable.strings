@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  MarvelCharacters
+
+  Created by Prasad More on 05/07/22.
+  
+*/
+// Screen Titles Strings
+"list_title" = "List of Marvel Characters";
+"detail_title" = "Character Details";
+"button_title_OK" = "OK";
+
+// Generic API Error Strings
+"list_error" = "Unable to load the Characters, please try again after sometime";
+"detail_error" = "Unable to load the Details, please try again after sometime";
